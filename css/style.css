@@ -127,4 +127,8 @@ h1:not(.perfume__title) {
         padding: 2rem;
         justify-content: space-evenly;
     }
+
+    .perfume__title {
+        padding-right: 2rem;
+    }
 }
